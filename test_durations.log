@@ -1,0 +1,219 @@
+
+[START] Test 'tests/test_elements2.py::test_navigate_to_elements_page' - 19:58:06
+[END] Test 'tests/test_elements2.py::test_navigate_to_elements_page' finished in 0.01 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_id' - 19:58:06
+[END] Test 'tests/test_elements2.py::test_locate_by_id' finished in 0.00 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_css_selector' - 19:58:06
+[END] Test 'tests/test_elements2.py::test_locate_by_css_selector' finished in 0.00 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_xpath' - 19:58:06
+[END] Test 'tests/test_elements2.py::test_locate_by_xpath' finished in 0.00 seconds.
+
+[START] Test 'tests/test_check_box2.py::test_check_box' - 20:05:57
+[END] Test 'tests/test_check_box2.py::test_check_box' finished in 0.01 seconds.
+
+[START] Test 'tests/test_elements2.py::test_navigate_to_elements_page' - 20:05:57
+[END] Test 'tests/test_elements2.py::test_navigate_to_elements_page' finished in 0.00 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_id' - 20:05:57
+[END] Test 'tests/test_elements2.py::test_locate_by_id' finished in 0.00 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_css_selector' - 20:05:57
+[END] Test 'tests/test_elements2.py::test_locate_by_css_selector' finished in 0.00 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_xpath' - 20:05:57
+[END] Test 'tests/test_elements2.py::test_locate_by_xpath' finished in 0.00 seconds.
+
+[START] Test 'tests/test_text_box2.py::test_fill_form_with_pom' - 20:05:57
+[END] Test 'tests/test_text_box2.py::test_fill_form_with_pom' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:05:57
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.05 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:05:57
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:06:50
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.05 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:06:50
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:12:33
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.04 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:12:33
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.01 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:18:20
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.01 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:18:20
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:20:03
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.04 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:20:03
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:21:28
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.04 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:21:28
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:23:22
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.04 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:23:22
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 20:25:08
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.05 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 20:25:08
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 08:03:19
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.05 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 08:03:19
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 08:04:31
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.05 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 08:04:32
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 08:06:07
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 0.01 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 08:06:07
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 0.00 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 08:08:16
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 18.76 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 08:08:34
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 7.70 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 08:09:27
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 22.16 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 08:09:49
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 7.67 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 08:12:24
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 8.77 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 08:12:33
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 9.63 seconds.
+
+[START] Test 'day1/test_home_page.py::test_verify_demoqa_title' - 08:29:40
+[END] Test 'day1/test_home_page.py::test_verify_demoqa_title' finished in 9.35 seconds.
+
+[START] Test 'day2/test_buttons.py::test_double_click_button' - 08:36:20
+[END] Test 'day2/test_buttons.py::test_double_click_button' finished in 12.76 seconds.
+
+[START] Test 'day2/test_buttons.py::test_right_click_button' - 08:36:32
+[END] Test 'day2/test_buttons.py::test_right_click_button' finished in 97.14 seconds.
+
+[START] Test 'day2/test_buttons.py::test_dynamic_click_button' - 08:38:10
+[END] Test 'day2/test_buttons.py::test_dynamic_click_button' finished in 10.46 seconds.
+
+[START] Test 'day2/test_check_box.py::test_check_box' - 08:38:20
+[END] Test 'day2/test_check_box.py::test_check_box' finished in 10.84 seconds.
+
+[START] Test 'day2/test_check_box.py::test_check_commands' - 08:38:31
+[END] Test 'day2/test_check_box.py::test_check_commands' finished in 10.29 seconds.
+
+[START] Test 'day2/test_elements.py::test_navigate_to_elements_page' - 08:38:41
+[END] Test 'day2/test_elements.py::test_navigate_to_elements_page' finished in 10.56 seconds.
+
+[START] Test 'day2/test_elements.py::test_locate_by_id' - 08:38:52
+[END] Test 'day2/test_elements.py::test_locate_by_id' finished in 11.30 seconds.
+
+[START] Test 'day2/test_elements.py::test_locate_by_css_selector' - 08:39:03
+[END] Test 'day2/test_elements.py::test_locate_by_css_selector' finished in 9.67 seconds.
+
+[START] Test 'day2/test_elements.py::test_locate_by_xpath' - 08:39:13
+[END] Test 'day2/test_elements.py::test_locate_by_xpath' finished in 10.97 seconds.
+
+[START] Test 'day2/test_radio_button.py::test_interact_with_radio_button' - 08:39:24
+[END] Test 'day2/test_radio_button.py::test_interact_with_radio_button' finished in 10.36 seconds.
+
+[START] Test 'day2/test_screenshot.py::test_button_clicks_with_screenshots' - 08:39:34
+[END] Test 'day2/test_screenshot.py::test_button_clicks_with_screenshots' finished in 11.11 seconds.
+
+[START] Test 'day2/test_text_box.py::test_fill_text_box_form_and_validate' - 08:39:45
+[END] Test 'day2/test_text_box.py::test_fill_text_box_form_and_validate' finished in 19.60 seconds.
+
+[START] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' - 08:42:55
+[END] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' finished in 15.59 seconds.
+
+[START] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' - 08:43:57
+[END] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' finished in 16.06 seconds.
+
+[START] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' - 08:45:08
+[END] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' finished in 15.68 seconds.
+
+[START] Test 'day2/test_text_box.py::test_fill_text_box_form_and_validate' - 08:48:12
+[END] Test 'day2/test_text_box.py::test_fill_text_box_form_and_validate' finished in 2.45 seconds.
+
+[START] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' - 09:02:35
+[END] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' finished in 16.68 seconds.
+
+[START] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' - 09:03:55
+[END] Test 'day3/test_dinamic_prpoperty.py::test_dinamic_button' finished in 3.57 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' - 09:58:02
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' finished in 13.46 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' - 09:58:15
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' finished in 11.36 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' - 10:06:13
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' finished in 10.07 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' - 10:06:23
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' finished in 9.68 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' - 10:47:51
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' finished in 11.11 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' - 10:48:02
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' finished in 10.18 seconds.
+
+[START] Test 'tests/test_check_box2.py::test_check_box' - 11:15:54
+[END] Test 'tests/test_check_box2.py::test_check_box' finished in 11.76 seconds.
+
+[START] Test 'tests/test_elements2.py::test_navigate_to_elements_page' - 11:16:06
+[END] Test 'tests/test_elements2.py::test_navigate_to_elements_page' finished in 10.88 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_id' - 11:16:17
+[END] Test 'tests/test_elements2.py::test_locate_by_id' finished in 10.01 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_css_selector' - 11:16:27
+[END] Test 'tests/test_elements2.py::test_locate_by_css_selector' finished in 9.89 seconds.
+
+[START] Test 'tests/test_elements2.py::test_locate_by_xpath' - 11:16:37
+[END] Test 'tests/test_elements2.py::test_locate_by_xpath' finished in 10.09 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' - 11:16:47
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data0]' finished in 9.90 seconds.
+
+[START] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' - 11:16:57
+[END] Test 'tests/test_practice_forms.py::test_fill_practice_form[data1]' finished in 10.47 seconds.
+
+[START] Test 'tests/test_text_box2.py::test_fill_form_with_pom' - 11:17:07
+[END] Test 'tests/test_text_box2.py::test_fill_form_with_pom' finished in 8.90 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_button_tooltip' - 11:17:16
+[END] Test 'tests/test_tool_tips.py::test_button_tooltip' finished in 9.35 seconds.
+
+[START] Test 'tests/test_tool_tips.py::test_field_tooltip' - 11:17:25
+[END] Test 'tests/test_tool_tips.py::test_field_tooltip' finished in 9.84 seconds.
