@@ -7,8 +7,15 @@ import os, pytest_html
 
 def pytest_addoption(parser):
     parser.addoption("--browser", action="store", default="chrome", help="browser to execute tests (chrome or firefox)")
+
+    
 @pytest.fixture
 def driver(request):
+    """ 
+    Cria uma instância do WebDriver (Chrome ou Firefox) com base na opção 
+    passada por --browser. Maximiza a janela antes do teste e fecha 
+    automaticamente ao final."""
+    
     browser = request.config.getoption("--browser").lower()
     if browser == "chrome":
         driver_instance = webdriver.Chrome()
@@ -20,10 +27,7 @@ def driver(request):
     yield driver_instance
     driver_instance.quit()
 
-@pytest.fixture(scope="session")
-def test_data():
-    with open("data/test_data.json") as f:
-        return json.load(f)
+
 LOG_FILE = Path("test_durations.log")
 
 @pytest.hookimpl(tryfirst=True)
