@@ -11,6 +11,7 @@ def test_button_clicks_with_screenshots(driver):
 
     double_click_btn = driver.find_element(By.ID, "doubleClickBtn")
     actions.double_click(double_click_btn).perform()
-    driver.save_screenshot("screenshots/1_after_double_click.png")
     double_click_message = driver.find_element(By.ID, "doubleClickMessage")
+    driver.execute_script("arguments[0].scrollIntoView(true);",double_click_message)
+    driver.save_screenshot("screenshots/1_after_double_click.png")
     assert "You have done a double click" in double_click_message.text
