@@ -33,7 +33,7 @@ class FormPage(BasePage):
         self.delivery_value_id = "com.saucelabs.mydemoapp.android:id/amountTV"
         self.qnt_items_id = "com.saucelabs.mydemoapp.android:id/itemNumberTV"
         self.unit_price_id = "com.saucelabs.mydemoapp.android:id/priceTV"
-
+        self.order_button = "com.saucelabs.mydemoapp.android:id/paymentBtn"
 
 
 
@@ -117,3 +117,6 @@ class FormPage(BasePage):
         delivery = float(self.get_element_text(AppiumBy.ID, self.delivery_value_id).replace("$","").strip())
         final_value = float(self.get_element_text(AppiumBy.ID, self.final_value_id).replace("$","").strip())
         assert final_value == delivery + (qnt_items * unit_price)
+
+    def cick_order_button(self):
+        self.click_element(AppiumBy.ID, self.order_button)

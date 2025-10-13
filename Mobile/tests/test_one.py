@@ -43,6 +43,7 @@ def test_product_selection(driver, appium_test_capabilities):
     my_car_page.validate_total()
     my_car_page.click_button()
     my_car_page.click_checkout()
+ 
 
     assert login_usr_page.click_button_login() == "Username is required"
     assert login_usr_page.username_login() == "Enter Password"
@@ -85,4 +86,7 @@ def test_product_selection(driver, appium_test_capabilities):
     form_page.expectative_validate_code(form_data)
 
     form_page.total_price(product_data)
+
+    form_page.cick_order_button()
+
     
