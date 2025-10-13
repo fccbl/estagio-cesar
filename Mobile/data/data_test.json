@@ -1,0 +1,33 @@
+{
+  "form_user": {
+    "backpack": {
+      "full_name_address": "fabiana c c b lima",
+      "full_name_payment": "fabiana c c b lima",
+      "address_line": "rua jose moscow",
+      "city": "recife",
+      "state": "pernambuco",
+      "country": "brasil",
+      "zip_code": "54430060",
+      "card_number": "314546776589902",
+      "secure_code": "02/32",
+      "exp_date": "01/01",
+      "exp_final": "Exp: 01/01"
+    }
+  },
+  "products": {
+    "backpack": {
+      "name": "Sauce Labs Backpack (orange)",
+      "price": "$ 29.99",
+      "name_products": "Products",
+      "price_unit": "$ 29.99",
+      "username_text": "Username is required",
+      "password_text": "Enter Password",
+      "total_price": 65.97,
+      "price_unit_value":29.99
+
+
+
+    
+    }
+  }
+}
